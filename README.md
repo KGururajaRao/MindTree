@@ -1,2 +1,2 @@
 # MindTree
-Case Study
+Case Study for Computer Vision role
